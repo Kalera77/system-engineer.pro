@@ -1,0 +1,37 @@
+# Русская версия (корень сайта)
+main:
+  - title: "Главная"
+    url: /
+  - title: "О проекте"
+    url: /about/
+  - title: "Теория"
+    url: /theory/
+  - title: "FORCED_REPORT"
+    url: /forced_report/
+  - title: "Публикации"
+    url: /publications/
+  - title: "Этика"
+    url: /ethics/
+  - title: "Контакты"
+    url: /contact/
+  - title: "🇬🇧 English"
+    url: /en/
+
+# Английская версия
+en:
+  - title: "Home"
+    url: /en/
+  - title: "About"
+    url: /en/about/
+  - title: "Theory"
+    url: /en/theory/
+  - title: "FORCED_REPORT"
+    url: /en/forced_report/
+  - title: "Publications"
+    url: /en/publications/
+  - title: "Ethics"
+    url: /en/ethics/
+  - title: "Contact"
+    url: /en/contact/
+  - title: "🇷🇺 Русский"
+    url: /

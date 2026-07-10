@@ -1,0 +1,44 @@
+# Site settings
+title: "Valery Kalinin | System Architect of Consciousness"
+name: "Valery Kalinin"
+email: kalera77@gmail.com
+description: "Formal theory of cognitive shadow, FORCED_REPORT protocol, and interdisciplinary research on consciousness."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://system-engineer.pro" # the base hostname & protocol for your site
+github_username: Kalera77
+orcid: 0009-0003-0610-5137
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+lsi: false
+excerpt_separator: <!--more-->
+incremental: false
+
+# Defaults for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation
+# Defined in _data/navigation.yml
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .gitignore
+  - README.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
