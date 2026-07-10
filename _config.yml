@@ -3,8 +3,8 @@ title: "Valery Kalinin | System Architect of Consciousness"
 name: "Valery Kalinin"
 email: kalera77@gmail.com
 description: "Formal theory of cognitive shadow, FORCED_REPORT protocol, and interdisciplinary research on consciousness."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://system-engineer.pro" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://system-engineer.pro"
 github_username: Kalera77
 orcid: 0009-0003-0610-5137
 
@@ -42,6 +42,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-include-cache    # необходим для Minimal Mistakes
+
+# Theme (обязательно для использования Minimal Mistakes)
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Minimal Mistakes skin (цветовая схема)
 minimal_mistakes_skin: "contrast"
