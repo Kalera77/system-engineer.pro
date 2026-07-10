@@ -30,4 +30,4 @@ author_profile: true
 ### 6. Ограничение на pure awareness
 Внешнее наблюдение только с согласия.
 
-📄 [Полный текст Shadow Ethics](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
+📄 [Полный текст Shadow Ethics](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)

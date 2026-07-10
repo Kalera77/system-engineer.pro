@@ -25,4 +25,4 @@ author_profile: true
 - ✅ Patent application RU 2026XXXXXX (18 claims)
 - ⏳ Requires prospective clinical trials
 
-📄 [More about the protocol](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/forced_report_protocol.md)
+📄 [More about the protocol](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/forced_report_protocol.md)

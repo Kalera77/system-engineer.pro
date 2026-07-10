@@ -24,4 +24,4 @@ author_profile: true
 ### Формальная верификация
 Все теоремы доказаны в Coq 8.18+ и TLA⁺.
 
-📄 [Полный текст теории](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/cognitive_shadow_core.md)
+📄 [Полный текст теории](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/cognitive_shadow_core.md)

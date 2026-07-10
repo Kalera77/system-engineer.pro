@@ -33,4 +33,4 @@ author_profile: true
 
 **Статус:** Препринт готов, статья подаётся в NeuroImage.
 
-📄 [Все материалы в репозитории](https://github.com/Kalera77/cognitive-shadow-theorem)
+📄 [Все материалы в репозитории](https://github.com/Kalera77/cognitive-shadow-theory)

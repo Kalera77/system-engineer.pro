@@ -24,4 +24,4 @@ author_profile: true
 - **Commercial licensing** — subject "Commercial license"
 - **Press and interviews** — subject "Media"
 
-📄 [Public repository](https://github.com/Kalera77/cognitive-shadow-theorem)
+📄 [Public repository](https://github.com/Kalera77/cognitive-shadow-theory)

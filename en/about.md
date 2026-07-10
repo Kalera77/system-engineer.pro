@@ -33,4 +33,4 @@ digitisation and providing operational tools to work within these limits.
 
 **Status:** Preprint ready, article submitted to NeuroImage.
 
-📄 [All materials in the repository](https://github.com/Kalera77/cognitive-shadow-theorem)
+📄 [All materials in the repository](https://github.com/Kalera77/cognitive-shadow-theory)

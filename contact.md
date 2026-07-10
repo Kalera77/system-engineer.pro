@@ -24,4 +24,4 @@ author_profile: true
 - **Коммерческое лицензирование** — пишите с темой "Commercial license"
 - **Пресса и интервью** — пишите с темой "Media"
 
-📄 [Публичный репозиторий](https://github.com/Kalera77/cognitive-shadow-theorem)
+📄 [Публичный репозиторий](https://github.com/Kalera77/cognitive-shadow-theory)

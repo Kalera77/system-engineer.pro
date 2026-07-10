@@ -30,4 +30,4 @@ Prohibiting full synchronisation of agents.
 ### 6. Limit on Pure Awareness
 External observation only with consent.
 
-📄 [Full text of Shadow Ethics](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
+📄 [Full text of Shadow Ethics](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)

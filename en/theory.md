@@ -23,4 +23,4 @@ The signature mapping is non‑injective, reconstruction is bounded, and AUC ∈
 ### Formal verification
 All theorems are proved in Coq 8.18+ and TLA⁺.
 
-📄 [Full theory text](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/cognitive_shadow_core.md)
+📄 [Full theory text](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/cognitive_shadow_core.md)

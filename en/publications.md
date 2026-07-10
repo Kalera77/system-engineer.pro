@@ -14,13 +14,13 @@ author_profile: true
 ## Preprints
 
 1. Kalinin VS. Cognitive Shadow: Formal Limits of Consciousness Digitization (core). 
-   [GitHub](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/cognitive_shadow_core.md)
+   [GitHub](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/cognitive_shadow_core.md)
 
 2. Kalinin VS. Cognitive Shadow Dynamics: Extensions and Interfaces.
-   [GitHub](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/cognitive_shadow_dynamics.md)
+   [GitHub](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/cognitive_shadow_dynamics.md)
 
 3. Kalinin VS. Formal Theory of Observable Boundaries of Consciousness.
-   [GitHub](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/Formal_Theory_of_Observable_Boundaries_of_Consciousness.md)
+   [GitHub](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Formal_Theory_of_Observable_Boundaries_of_Consciousness.md)
 
 ## Books
 
@@ -35,4 +35,4 @@ author_profile: true
 - AI Conscious Usage Guide
 - Responses to Critics (Q&A)
 
-📄 [All materials in the repository](https://github.com/Kalera77/cognitive-shadow-theorem)
+📄 [All materials in the repository](https://github.com/Kalera77/cognitive-shadow-theory)

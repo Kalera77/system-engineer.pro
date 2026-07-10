@@ -25,4 +25,4 @@ author_profile: true
 - ✅ Патентная заявка RU 2026XXXXXX (18 пунктов)
 - ⏳ Требует проспективных клинических испытаний
 
-📄 [Подробнее о протоколе](https://github.com/Kalera77/cognitive-shadow-theorem/blob/main/forced_report_protocol.md)
+📄 [Подробнее о протоколе](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/forced_report_protocol.md)
