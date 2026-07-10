@@ -10,6 +10,8 @@ main:
     url: /forced_report/
   - title: "Публикации"
     url: /publications/
+  - title: "ИИ-гигиена"
+    url: /ai-hygiene/
   - title: "Этика"
     url: /ethics/
   - title: "Контакты"
@@ -29,6 +31,8 @@ en:
     url: /en/forced_report/
   - title: "Publications"
     url: /en/publications/
+  - title: "AI Hygiene"
+    url: /en/ai-hygiene/
   - title: "Ethics"
     url: /en/ethics/
   - title: "Contact"

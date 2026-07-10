@@ -1,0 +1,87 @@
+---
+# Front matter обязателен для Jekyll
+---
+
+// ========================================
+// 1. Переопределяем переменные темы
+//    (все изменения ДО импорта)
+// ========================================
+
+// --- Цвета (для скина "contrast") ---
+$link-color: #2a5c7a !default;           // спокойный синий для ссылок
+$masthead-link-color: #2a5c7a !default;   // такой же в шапке
+$primary-color: #2a5c7a !default;         // основной акцентный цвет
+
+// --- Шрифты ---
+// Используем системные шрифты по умолчанию (они надёжны и быстры)
+// Если хотите Google Fonts – подключите их в _includes/head/custom.html
+// и затем раскомментируйте строки ниже:
+// $sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !default;
+// $serif: "Roboto Slab", Georgia, "Times New Roman", serif !default;
+// $monospace: "SF Mono", "Menlo", "Consolas", monospace !default;
+
+// Базовый размер шрифта (делаем чуть крупнее для комфорта)
+$doc-font-size: 18 !default;
+
+// Отступы (больше воздуха между абзацами)
+$spacing-unit: 1.5rem !default;
+
+// ========================================
+// 2. Импортируем тему Minimal Mistakes
+// ========================================
+@import "minimal-mistakes";
+
+// ========================================
+// 3. Дополнительные стили (инженерная строгость)
+// ========================================
+
+// Убираем лишние тени и скругления
+.page__content {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.masthead {
+  border-bottom: 2px solid #d0d0d0; // чёткая линия под шапкой
+}
+
+// Заголовки — более строгие, с лёгким межбуквенным интервалом
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif; // если подключили Roboto Slab, будет работать
+  letter-spacing: 0.02em;
+}
+
+// Ссылки — без подчёркивания по умолчанию, при наведении появляется
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Акцентные кнопки
+.btn--primary {
+  background-color: $primary-color;
+  border-color: $primary-color;
+  &:hover {
+    background-color: darken($primary-color, 10%);
+    border-color: darken($primary-color, 10%);
+  }
+}
+
+// Блоки с кодом и цитаты — минималистично
+pre, code {
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+}
+
+blockquote {
+  border-left: 4px solid $primary-color;
+  background-color: #f9fafb;
+  padding: 0.5rem 1.5rem;
+}
+
+// Делаем картинки чуть темнее, чтобы они не выбивались из стиля
+img {
+  filter: brightness(0.98);
+}

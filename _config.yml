@@ -42,3 +42,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-relative-links
+
+# Minimal Mistakes skin (цветовая схема)
+minimal_mistakes_skin: "contrast"
