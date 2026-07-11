@@ -6,14 +6,18 @@ main:
     url: /about/
   - title: "Теория"
     url: /theory/
+  - title: "Методология"
+    url: /methodology/
   - title: "FORCED_REPORT"
     url: /forced_report/
+  - title: "Shadow Ethics"
+    url: /ethics/
+  - title: "Ответы критикам"
+    url: /responses-to-critics/
   - title: "Публикации"
     url: /publications/
   - title: "ИИ-гигиена"
     url: /ai-hygiene/
-  - title: "Этика"
-    url: /ethics/
   - title: "Контакты"
     url: /contact/
   - title: "🇬🇧 English"
@@ -27,14 +31,18 @@ en:
     url: /en/about/
   - title: "Theory"
     url: /en/theory/
+  - title: "Methodology"
+    url: /en/methodology/
   - title: "FORCED_REPORT"
     url: /en/forced_report/
+  - title: "Shadow Ethics"
+    url: /en/ethics/
+  - title: "Responses to Critics"
+    url: /en/responses-to-critics/
   - title: "Publications"
     url: /en/publications/
   - title: "AI Hygiene"
     url: /en/ai-hygiene/
-  - title: "Ethics"
-    url: /en/ethics/
   - title: "Contact"
     url: /en/contact/
   - title: "🇷🇺 Русский"
