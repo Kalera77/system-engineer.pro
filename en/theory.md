@@ -248,5 +248,5 @@ All materials are open, code is verifiable, data are reproducible.
 - [Dynamic extension (full text)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_dynamics.md)
 - [Empirical validation article](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Article.md)
 - [Shadow Ethics (full text)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
-- [Responses to critics](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
+- [Clarifications on Key Questions](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Clarifications_on_Key_Questions.md)
 - [Code repository](https://github.com/Kalera77/cognitive-shadow-theory)

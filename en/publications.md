@@ -119,11 +119,11 @@ Essay on systems thinking and the art of asking questions.
 
 📄 [AI_Hygiene_Guide_ru.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/AI_Hygiene_Guide_ru.md)
 
-### Responses to Critics
+### Clarifications on Key Questions
 
-**Responses_to_Critics.md** — honest answers to 11 critical questions about the theory.
+**Clarifications_on_Key_Questions.md** — honest answers to 11 critical questions about the theory.
 
-📄 [Responses_to_Critics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
+📄 [Clarifications_on_Key_Questions.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Clarifications_on_Key_Questions.md)
 
 ### Experimental Program
 

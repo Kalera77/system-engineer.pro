@@ -1,11 +1,11 @@
 ---
-title: "Responses to Critics"
-permalink: /en/responses-to-critics/
+title: "Clarifications on Key Questions"
+permalink: /en/Clarifications-on-Key-Questions/
 layout: single
 author_profile: true
 ---
 
-# Responses to Critics
+# Clarifications on Key Questions
 
 A scientific theory is tested not by the number of its supporters, but by how it answers objections.
 
@@ -58,7 +58,7 @@ Here is a brief overview of the most frequently asked questions about the Cognit
 
 ## Full Text
 
-📄 [Responses to Critics — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
+📄 [Clarifications on Key Questions — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Clarifications_on_Key_Questions.md)
 
 ---
 

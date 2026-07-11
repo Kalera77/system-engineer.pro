@@ -1,11 +1,11 @@
 ---
-title: "Ответы критикам"
-permalink: /responses-to-critics/
+title: "Пояснения к ключевым вопросам"
+permalink: /Clarifications-on-Key-Questions/
 layout: single
 author_profile: true
 ---
 
-# Ответы критикам
+# Пояснения к ключевым вопросам
 
 Научная теория проверяется не числом сторонников, а тем, как она отвечает на возражения.
 
@@ -58,7 +58,7 @@ author_profile: true
 
 ## Полный текст
 
-📄 [Ответы критикам — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
+📄 [Пояснения к ключевым вопросам — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Clarifications_on_Key_Questions.md)
 
 ---
 

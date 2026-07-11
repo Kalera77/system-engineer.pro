@@ -248,5 +248,5 @@ Shadow Ethics — это не внешние ограничения, а **арх
 - [Динамическое расширение (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_dynamics.md)
 - [Статья с эмпирической валидацией](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Article.md)
 - [Shadow Ethics (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
-- [Ответы критикам](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
+- [Пояснения к ключевым вопросам](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Clarifications_on_Key_Questions.md)
 - [Репозиторий с кодом](https://github.com/Kalera77/cognitive-shadow-theory)

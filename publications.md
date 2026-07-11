@@ -119,11 +119,11 @@ author_profile: true
 
 📄 [AI_Hygiene_Guide_ru.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/AI_Hygiene_Guide_ru.md)
 
-### Ответы критикам
+### Пояснения к ключевым вопросам
 
-**Responses_to_Critics.md** — честные ответы на 11 критических вопросов о теории.
+**Clarifications_on_Key_Questions.md** — честные ответы на 13 критических вопросов о теории.
 
-📄 [Responses_to_Critics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
+📄 [Clarifications_on_Key_Questions.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Clarifications_on_Key_Questions.md)
 
 ### Экспериментальная программа
 
