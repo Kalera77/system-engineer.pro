@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Теория"
     url: /theory/
-  - title: "Методология"
-    url: /methodology/
   - title: "FORCED_REPORT"
     url: /forced_report/
   - title: "Shadow Ethics"
@@ -31,8 +29,6 @@ en:
     url: /en/about/
   - title: "Theory"
     url: /en/theory/
-  - title: "Methodology"
-    url: /en/methodology/
   - title: "FORCED_REPORT"
     url: /en/forced_report/
   - title: "Shadow Ethics"

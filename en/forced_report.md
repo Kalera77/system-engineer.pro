@@ -7,108 +7,114 @@ author_profile: true
 
 # FORCED_REPORT Protocol
 
-**What it is:** a multimodal protocol for detecting consciousness in patients with complete paralysis.  
-**Status:** formally verified in Coq, retrospectively validated (AUC = 0.947), **patent application filed**, requires prospective validation.
+**What it is:** a multimodal protocol for detecting consciousness in patients with complete paralysis.
+
+**Status:** formally verified, retrospectively validated (AUC = 0.947), **patent application filed**, prospective validation required.
 
 ---
 
-## Clinical problem
+## Clinical Problem
 
-**Locked‑in syndrome (LIS)** — a state of complete paralysis with preserved consciousness.
+**Locked‑in Syndrome (LIS)** — a state of complete paralysis with preserved consciousness. Up to 40% of LIS patients are initially misclassified as vegetative state (VS). This leads to:
 
-According to systematic reviews, **up to 40% of LIS patients are initially misclassified** as vegetative state (VS). This leads to:
 - Inadequate treatment
 - Severe ethical consequences
-- Lack of communication with a conscious person
+- No communication with a conscious person
 
-Behavioral scales (CRS‑R) have sensitivity **no higher than 70–80%** in the absence of motor responses. Functional MRI and PET are expensive and rarely available at the bedside.
+Behavioural scales (CRS‑R) have sensitivity no higher than 70–80% in the absence of motor responses. Functional MRI and PET are expensive and not easily available at the bedside.
 
 ---
 
-## Essence of the invention
+## Protocol Essence
 
 **FORCED_REPORT** (Formal REflexive Detection via Redundant Output Pathways) — a method for consciousness detection based on **three independent physiological channels** that do not require voluntary motor control.
 
-### Three independent channels
-
-| Modality | What is measured | Role in diagnostics |
-|----------|------------------|---------------------|
-| **BCI** (voluntary modulation) | Mu‑rhythm (8–12 Hz) desynchronization during motor imagery | Direct volitional control |
+| Modality | What is measured | Role in diagnosis |
+|----------|------------------|-------------------|
+| **BCI** (voluntary modulation) | Desynchronization of mu‑rhythm (8–12 Hz) during motor imagery | Direct volitional control |
 | **Pupillary reflex + HRV** | Pupil dilation and heart rate variability in response to salient stimuli | Autonomic response to meaningful stimuli |
-| **RLPFC neurofeedback** | Alpha‑rhythm power feedback in prefrontal cortex | Metacognitive control |
+| **RLPFC neurofeedback** | Feedback on alpha‑rhythm power in the prefrontal cortex | Metacognitive control |
 
-### Diagnostic rule
-
-If **at least two modalities** cross their thresholds — the patient's status is switched to `CONSCIOUS_LOCKED (LIS)`.
-
-> **Key difference from existing solutions:** multimodality + formal verification + adaptive thresholds that account for the patient's state. This reduces both false‑positive and false‑negative diagnoses.
+**Decision rule:** if **at least two modalities** cross thresholds → patient status becomes `CONSCIOUS_LOCKED (LIS)`.
 
 ---
 
-## Patent protection
+## Key Differentiators
 
-**Patent application filed with Rospatent (2026)**
-
-- **Claims:** 18 claims, 3 independent methods
-- **Status:** Under review
-
-> **Important:** until the patent is published, exact thresholds, weighting coefficients, and implementation details **are not disclosed**. Available to potential partners under NDA.
+- **Multimodality** — reduces risk of false positives and false negatives
+- **Formal verification** — protocol proven in Coq (soundness, absence of false alarms)
+- **Adaptive thresholds** — take into account patient state and noise level
+- **Cryptographic protection** — result is fixed via ZK‑SNARK
 
 ---
 
 ## Status
 
-### ✅ Formal verification
+### ✅ Formal Verification
 
 The protocol is **formally verified in Coq** (module `ForcedReportDecision.v`):
-- **Soundness proven:** transition to `CONSCIOUS_LOCKED` occurs only when all triggers are satisfied
-- **False positives guaranteed absent** with correct calibration
-- Consistency with Shadow Ethics proven
+- **Soundness** proven: transition to `CONSCIOUS_LOCKED` occurs only when all triggers are met
+- **Absence of false positives** guaranteed under correct calibration
+- Consistency with Shadow Ethics (six principles) proven
 
-### ✅ Retrospective validation
+### ✅ Retrospective Validation
 
 On CLIS data (16 patients, 2499 epochs):
-- **AUC = 0.947 ± 0.081** for CLIS vs healthy (GroupKFold)
+- **AUC = 0.947 ± 0.081** for LIS vs healthy (GroupKFold)
 - **Specificity confirmed:** control tasks yield AUC ≈ 0.5
 
-### ⏳ Prospective validation
+### ⏳ Prospective Validation
 
-A **prospective multicenter study** on a cohort of N > 100 patients with LIS and VS is required. The protocol is ready; we need:
-- Funding
-- Clinical partners (intensivists, neurologists)
-- Ethics committee approval
+A **prospective multicenter study** on a cohort of N > 100 patients with LIS and VS is required. The protocol is ready.
 
 ---
 
-## How to participate
+## Patent Protection
 
-### For clinicians
+**Patent application filed with Rospatent (2026)**
 
-If you work in an ICU with patients with disorders of consciousness and are interested in prospective validation of the protocol:
+- **Claims:** 18 claims, 3 independent methods
+- **Status:** Under consideration
+
+> **Important:** until the patent is published, exact thresholds, weights, and implementation details **are not disclosed**. They are provided to potential partners under NDA.
+
+---
+
+## How to Participate
+
+### For Clinicians
+
+If you work in ICU with patients with disorders of consciousness and are interested in prospective validation of the protocol:
 
 📧 **Email:** kalera77@gmail.com  
 📝 **Subject:** "Clinical partnership FORCED_REPORT"
 
 Please include:
-- Name of your institution
-- Specialization (neurology, intensive care)
+- Institution name
+- Specialisation (neurology, intensive care)
 - Willingness to participate in clinical trials
 
-### For researchers
+### For Researchers
 
 If you work in BCI, neurofeedback, or neuroimaging:
 
 📧 **Email:** kalera77@gmail.com  
 📝 **Subject:** "Research collaboration FORCED_REPORT"
 
-### For investors
+### For Investors
 
-If you are interested in commercializing the protocol:
+If you are interested in commercialisation of the protocol:
 
 📧 **Email:** kalera77@gmail.com  
 📝 **Subject:** "Commercial license FORCED_REPORT"
 
 **Implementation details and know‑how are provided only under NDA.**
+
+---
+
+## Theoretical Foundation
+
+The FORCED_REPORT protocol is a direct implementation of the cognitive shadow theory. The formal justification is derived from the axiomatics (Theorems 1′, 9, Postulate P1) and Shadow Ethics principles. For details, see the [Theory](/theory) section.
 
 ---
 
