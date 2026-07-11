@@ -54,7 +54,7 @@ author_profile: true
 - **Date:** July 3, 2026
 - **Content:** Kantian turn, reconstruction limits, connection to physics
 
-📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/Formal_Theory_of_Observable_Boundaries.md)
+📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/Formal_Theory_of_Observable_Boundaries_of_Consciousness.md)
 
 ### Maturity manifesto
 

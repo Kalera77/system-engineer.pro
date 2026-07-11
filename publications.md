@@ -54,7 +54,7 @@ author_profile: true
 - **Дата:** 3 июля 2026 г.
 - **Содержание:** Кантовский разворот, пределы реконструкции, связь с физикой
 
-📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/Formal_Theory_of_Observable_Boundaries.md)
+📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/Formal_Theory_of_Observable_Boundaries_of_Consciousness.md)
 
 ### Манифест зрелости
 
