@@ -58,7 +58,7 @@ Here is a brief overview of the most frequently asked questions about the Cognit
 
 ## Full Text
 
-📄 [Responses to Critics — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Responses_to_Critics.md)
+📄 [Responses to Critics — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
 
 ---
 

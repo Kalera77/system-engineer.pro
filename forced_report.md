@@ -120,6 +120,6 @@ author_profile: true
 
 ## Документация
 
-📄 [Формальная верификация (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Ethics/ForcedReportDecision.v)  
-📄 [Эмпирическая валидация](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Article.md)  
+📄 [Формальная верификация (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Protocols/ForcedReportDecision.v)  
+📄 [Эмпирическая валидация](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Article.md)
 📄 [Полный репозиторий](https://github.com/Kalera77/cognitive-shadow-theory)

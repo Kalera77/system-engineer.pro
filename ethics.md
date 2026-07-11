@@ -142,6 +142,6 @@ author_profile: true
 
 ## Полный текст
 
-📄 [Shadow Ethics — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles.md)  
-📄 [Формальная спецификация (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Ethics/FormalEthicsPrinciples.v)  
+📄 [Shadow Ethics — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)  
+📄 [Формальная спецификация (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Protocols/FormalEthicsPrinciples.v)  
 📄 [TLA⁺ спецификация](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/tla-spec/ShadowEthicsInvariants.tla)

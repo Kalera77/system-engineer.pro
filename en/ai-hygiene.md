@@ -176,7 +176,7 @@ Because where autopilot begins, the pilot ends.
 
 ## Full text
 
-📄 [AI_Hygiene_Guide_ru.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/AI_Hygiene_Guide_ru.md) (Russian version)
+📄 [AI_Hygiene_Guide_ru.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/AI_Hygiene_Guide_ru.md) 
 
 **Author:** Valery Kalinin, systems engineer  
 **Date:** July 2026  

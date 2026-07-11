@@ -120,6 +120,6 @@ The FORCED_REPORT protocol is a direct implementation of the cognitive shadow th
 
 ## Documentation
 
-📄 [Formal verification (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Ethics/ForcedReportDecision.v)  
+📄 [Formal verification (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Protocols/ForcedReportDecision.v)  
 📄 [Empirical validation](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Article.md)  
 📄 [Full repository](https://github.com/Kalera77/cognitive-shadow-theory)

@@ -72,14 +72,14 @@ author_profile: true
 - **Date:** July 8, 2026
 - **Content:** Six Shadow Ethics principles, formal verification
 
-📄 [Shadow_Ethics_Formal_Principles.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles.md)
+📄 [Shadow_Ethics_Formal_Principles.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
 
 **Kalinin VS.** Formal Ethics of Cognitive Systems: From Principles to Protocols.
 
 - **Date:** July 4, 2026
 - **Content:** Engineering specification, application protocols
 
-📄 [Formal_Ethics_Specification.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/Formal_Ethics_Specification.md)
+📄 [Formal_Ethics_Specification.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Formal_Ethics_Specification.md)
 
 ### Appendices
 
@@ -102,16 +102,12 @@ Philosophical essay justifying acceptance of formalization incompleteness as a c
 - **Genre:** Philosophy, cognitive science
 - **Key idea:** Incompleteness of formalization is not a defect but a condition of freedom
 
-📖 [Download on Bookbee](https://bookbee.ru/book/244657-nepostizhimost-kak-dar) (Russian)
-
 ### The Book of Questions
 
 Essay on systems thinking and the art of asking questions.
 
 - **Genre:** Systems thinking, self‑knowledge
 - **Key idea:** Questions are more important than answers
-
-📖 [Available on the same platforms]
 
 ---
 

@@ -142,6 +142,6 @@ The full theoretical foundation of Shadow Ethics is derived from the axiomatics 
 
 ## Full Text
 
-📄 [Shadow Ethics — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles.md)  
-📄 [Formal specification (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Ethics/FormalEthicsPrinciples.v)  
+📄 [Shadow Ethics — full document](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)  
+📄 [Formal specification (Coq)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/src/Protocols/FormalEthicsPrinciples.v)  
 📄 [TLA⁺ specification](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/tla-spec/ShadowEthicsInvariants.tla)

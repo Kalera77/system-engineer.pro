@@ -58,7 +58,7 @@ author_profile: true
 
 ## Полный текст
 
-📄 [Ответы критикам — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Ответы_критикам.md)
+📄 [Ответы критикам — полный документ](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
 
 ---
 

@@ -21,7 +21,7 @@ author_profile: true
   - Подтверждение параметра A (Awareness): p = 0.045
   - Специфичность: контрольные задачи дают AUC ≈ 0.5
 
-📄 [Полный текст (Article.md)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Article.md)
+📄 [Полный текст (Article.md)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Article.md)
 
 ---
 
@@ -35,7 +35,7 @@ author_profile: true
 - **Содержание:** Аксиомы A1–A8*, Теорема 1′, формальная верификация в Coq
 - **Лицензия:** CC BY‑NC 4.0 (текст), MIT (код)
 
-📄 [cognitive_shadow_core.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_core.md)
+📄 [cognitive_shadow_core.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_core.md)
 
 ### Динамическое расширение
 
@@ -45,7 +45,7 @@ author_profile: true
 - **Содержание:** Аксиомы A9–A29, Теоремы 2–10, динамика интерфейсов
 - **Новое:** Теорема 10 (принцип наблюдаемости сигнатур)
 
-📄 [cognitive_shadow_dynamics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_dynamics.md)
+📄 [cognitive_shadow_dynamics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_dynamics.md)
 
 ### Методологический уровень
 
@@ -54,7 +54,7 @@ author_profile: true
 - **Дата:** 3 июля 2026 г.
 - **Содержание:** Кантовский разворот, пределы реконструкции, связь с физикой
 
-📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/Formal_Theory_of_Observable_Boundaries.md)
+📄 [Formal_Theory_of_Observable_Boundaries.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/Formal_Theory_of_Observable_Boundaries.md)
 
 ### Манифест зрелости
 
@@ -63,7 +63,7 @@ author_profile: true
 - **Дата:** 7 июля 2026 г.
 - **Содержание:** Честность об ограничениях, фальсифицируемость, приглашение к сотрудничеству
 
-📄 [MATURE_STATUS.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/MATURE_STATUS.md)
+📄 [MATURE_STATUS.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/MATURE_STATUS.md)
 
 ### Этика
 
@@ -72,7 +72,7 @@ author_profile: true
 - **Дата:** 8 июля 2026 г.
 - **Содержание:** Шесть принципов Shadow Ethics, формальная верификация
 
-📄 [Shadow_Ethics_Formal_Principles.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles.md)
+📄 [Shadow_Ethics_Formal_Principles.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
 
 **Kalinin VS.** Формальная этика когнитивных систем: от принципов к протоколам.
 
@@ -102,16 +102,12 @@ author_profile: true
 - **Жанр:** Философия, когнитивистика
 - **Ключевая идея:** Неполнота формализации — не дефект, а условие свободы
 
-📖 [Скачать на Bookbee](https://bookbee.ru/book/244657-nepostizhimost-kak-dar)
-
 ### Книга вопросов
 
 Эссе о системном мышлении и искусстве задавать вопросы.
 
 - **Жанр:** Системное мышление, самопознание
 - **Ключевая идея:** Вопросы важнее ответов
-
-📖 [Доступна на тех же платформах]
 
 ---
 
@@ -127,13 +123,13 @@ author_profile: true
 
 **Responses_to_Critics.md** — честные ответы на 11 критических вопросов о теории.
 
-📄 [Responses_to_Critics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
+📄 [Responses_to_Critics.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
 
 ### Экспериментальная программа
 
 **Experimental_Program.md** — план верификации теории когнитивной тени.
 
-📄 [Experimental_Program.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Experimental_Program.md)
+📄 [Experimental_Program.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Experimental_Program.md)
 
 ---
 
@@ -145,7 +141,7 @@ author_profile: true
 - **TLA⁺ спецификации**, проверены на 100% состояний
 - **Извлечение кода:** OCaml → FFI в Rust/Python
 
-📄 [Documentation of Coq Modules](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/docs/Documentation_of_Coq_Modules.md)  
+📄 [Documentation of Coq Modules](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/docs/Documentation_of_Coq_Modules.md)  
 📄 [Исходный код (src/)](https://github.com/Kalera77/cognitive-shadow-theory/tree/main/src)
 
 ---

@@ -244,9 +244,9 @@ Shadow Ethics — это не внешние ограничения, а **арх
 
 ## Навигация по документам
 
-- [Формальное ядро (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_core.md)
-- [Динамическое расширение (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_dynamics.md)
-- [Статья с эмпирической валидацией](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Article.md)
-- [Shadow Ethics (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/ETHICS/Shadow_Ethics_Formal_Principles.md)
-- [Ответы критикам](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Responses_to_Critics.md)
+- [Формальное ядро (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_core.md)
+- [Динамическое расширение (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_dynamics.md)
+- [Статья с эмпирической валидацией](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Article.md)
+- [Shadow Ethics (полный текст)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
+- [Ответы критикам](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/EMPIRICAL/Responses_to_Critics.md)
 - [Репозиторий с кодом](https://github.com/Kalera77/cognitive-shadow-theory)
