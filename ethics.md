@@ -9,7 +9,7 @@ author_profile: true
 
 Традиционная этика ИИ накладывает внешние ограничения: регуляции, кодексы, фильтры. Они часто остаются декларативными и трудно верифицируемыми.
 
-**Shadow Ethics предлагает иной подход**: этические запреты выводятся как формальные инварианты безопасности, нарушение которых ведёт к коллапсу когнитивной системы. Это не философские пожелания — это архитектурные требования, верифицируемые в Coq и TLA⁺.
+**Shadow Ethics предлагает иной подход:** этические запреты выводятся как формальные инварианты безопасности, нарушение которых ведёт к коллапсу когнитивной системы. Это не философские пожелания — это архитектурные требования, верифицируемые в Coq и TLA⁺.
 
 ---
 
@@ -37,9 +37,9 @@ author_profile: true
 
 **Формулировка:** Запрещены операции, претендующие на полную оцифровку, копирование или исчерпывающее измерение когнитивной тени без явного информированного согласия.
 
-**Основание:** Теорема 1′, no-cloning theorem (Wootters & Zurek, 1982), Аксиома A4*.
+**Основание:** Теорема 1′, no‑cloning theorem (Wootters & Zurek, 1982), Аксиома A4*.
 
-**Инженерное следствие:** Запрет операции `clone(shadow_state)` в ядре системы. Криптографическая защита биометрических данных через ZK-SNARK.
+**Инженерное следствие:** Запрет операции `clone(shadow_state)` в ядре системы. Криптографическая защита биометрических данных через ZK‑SNARK.
 
 ---
 
@@ -131,25 +131,3 @@ author_profile: true
 | `Principle6_PureAwarenessLimit.v` | 6 | `Awareness_Misuse_Leads_To_Halt` |
 
 **Результат TLC (TLA⁺):**
-```
-All invariants hold
-No deadlock detected
-100% states covered
-```
-
----
-
-## Полный текст
-
-📄 [Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Shadow_Ethics_Formal_Principles_for_Cognitive_Systems.md)
-
-📄 [Formal_Ethics_Specification.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/Formal_Ethics_Specification.md)
-
----
-
-## Контакты
-
-Если вы разрабатываете когнитивные системы и хотите интегрировать Shadow Ethics — напишите мне.
-
-📧 kalera77@gmail.com
-```

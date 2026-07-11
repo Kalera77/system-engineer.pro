@@ -1,71 +1,61 @@
 ---
 title: "About"
-permalink: /en/about/
+permalink: /about/
 layout: single
 author_profile: true
 ---
 
 # Valery Kalinin
 
-**System Architect of Consciousness.**  
-Building bridges between neuroscience, formal logic, clinical practice, and ethics.
+Systems engineer working at the intersection of neuroscience, formal logic, clinical practice, and ethics.
+
+My professional task is to design and verify tools for diagnosing consciousness. I am not a neuroscientist or a clinician. My role is to formalize the boundaries of what can be known about consciousness and to propose practical diagnostic methods within those boundaries.
 
 ---
 
-## What I do
+## Why it works
 
-I am a systems engineer who decided to tackle the most complex system known: consciousness.
+Specialists see the problem from within their own discipline:
+- Neuroscientist → synapses
+- Clinician → symptoms
+- Mathematician → equations
 
-I am neither a neuroscientist nor a clinician. My role is to design tools for diagnosing consciousness, not to study the brain. My main tool is the cognitive shadow theory, which formalises the boundaries of consciousness cognition and shows how to work within those boundaries.
-
----
-
-## Why me
-
-Because specialists see the problem from within their discipline.  
-The neuroscientist sees synapses.  
-The clinician sees symptoms.  
-The mathematician sees equations.  
-
-I see the system as a whole — and build tools that work at the intersections of disciplines. It is precisely at the intersections that solutions are born which are invisible from within a single discipline.
+I see the system as a whole and build tools at the intersections of disciplines. That is where solutions emerge that are invisible from inside any single discipline.
 
 ---
 
-## Current project
+## Current project — Cognitive Shadow Theory
 
-I am developing a formal model of the cognitive shadow — a system that establishes the limits of what can be measured and reconstructed regarding subjective experience.
-
-The project unites:
-- Neuroscience
-- Formal logic (Coq, TLA⁺)
-- Clinical practice
-- Ethics of cognitive systems
+- **Formal core**: 10 theorems, 29 axioms, verified in Coq 8.18+ and TLA⁺
+- **Empirical base**: 265,956 EEG epochs from 9 independent datasets
+- **Clinical protocol**: FORCED_REPORT for LIS detection (AUC = 0.947)
+- **Ethical framework**: Shadow Ethics (6 principles, formally verified)
 
 ---
 
 ## Project status (July 2026)
 
-- Formal verification completed (27 Coq modules)
-- Empirical validation performed (265,956 EEG epochs)
-- Article submitted to NeuroImage
-- Patent application filed in Russia (18 claims, 3 independent)
-- Clinical partners needed for prospective validation
+- Formal verification complete (27 Coq modules)
+- Empirical validation performed
+- Paper submitted to NeuroImage
+- Patent application filed with Rospatent (18 claims, 3 independent)
+- Open to clinical partners for prospective validation
 
 ---
 
 ## Philosophical essays
 
-- **Incomprehensibility as a Gift** — essay on accepting the incompleteness of formalisation as a condition of freedom
-- **The Book of Questions** — essay on systems thinking and the art of asking questions
+- **Incomprehensibility as a Gift** — on accepting incompleteness of formalization as a condition of freedom
+- **The Book of Questions** — on systems thinking and the art of asking questions
 
 ---
 
 ## Working principles
 
-- Openness of all materials (code, data, proofs)
-- Acknowledgment of the theory's limitations
-- Invitation to interdisciplinary collaboration
-- No guruism
+- Openness of code, data, and proofs
+- Honest acknowledgment of the theory's limits and limitations
+- Rejection of "guru" posturing in favor of interdisciplinary dialogue
+- Invitation to collaborate
 
 ---
 

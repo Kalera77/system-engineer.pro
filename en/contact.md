@@ -1,11 +1,15 @@
 ---
 title: "Contact"
-permalink: /en/contact/
+permalink: /contact/
 layout: single
 author_profile: true
 ---
 
 # Contact
+
+If you are unsure which category your inquiry falls into — just write. I reply to all emails within 48 hours.
+
+---
 
 ## Reach me
 
@@ -13,14 +17,16 @@ author_profile: true
 🔗 **GitHub:** [github.com/Kalera77](https://github.com/Kalera77)  
 🆔 **ORCID:** [0009-0003-0610-5137](https://orcid.org/0009-0003-0610-5137)  
 
-## Inquiry types
+---
 
-### 🔬 Research collaboration
+## Types of inquiries
+
+### 🔬 Scientific collaboration
 
 If you are a researcher in neuroscience, cognitive science, formal methods, or philosophy of consciousness and want to:
-- Test predictions of the cognitive shadow theory
-- Develop the matrix model of interfaces
-- Critique ontological foundations
+- Test predictions of cognitive shadow theory
+- Develop the matrix interface model
+- Critique the ontological foundations
 - Conduct joint experiments
 
 📝 **Subject:** "Collaboration"
@@ -30,7 +36,7 @@ If you are a researcher in neuroscience, cognitive science, formal methods, or p
 If you are a clinician (intensivist, neurologist, psychiatrist) and want to:
 - Participate in prospective validation of the FORCED_REPORT protocol
 - Implement the protocol in clinical practice
-- Conduct a multicentre clinical trial
+- Conduct a multicenter clinical trial
 
 📝 **Subject:** "Clinical partnership"
 
@@ -43,12 +49,12 @@ If you represent a company and want to:
 
 📝 **Subject:** "Commercial license"
 
-### 📰 Press & interviews
+### 📰 Press and interviews
 
 If you are a journalist or blogger and want to:
-- Interview about the cognitive shadow theory
+- Interview about cognitive shadow theory
 - Write an article about the project
-- Discuss AI ethics
+- Discuss ethical aspects of AI
 
 📝 **Subject:** "Media"
 
@@ -66,11 +72,15 @@ Please include:
 - Purpose of access
 - Requested materials
 
+---
+
 ## Response time
 
-- **Standard requests:** 48 hours
-- **Commercial requests:** up to 7 business days
-- **Urgent questions:** indicate "URGENT" in the subject line
+- **Standard inquiries:** 48 hours
+- **Commercial inquiries:** up to 7 business days
+- **Urgent questions:** put "URGENT" in the subject line
+
+---
 
 ## Repository
 
@@ -78,10 +88,14 @@ All public materials are available in the repository:
 
 📦 **[github.com/Kalera77/cognitive-shadow-theory](https://github.com/Kalera77/cognitive-shadow-theory)**
 
+---
+
 ## Privacy policy
 
-I am conscious about personal data processing. All communications are confidential. Data is not shared with third parties without your consent.
+I take data privacy seriously. All communications are confidential. Data are not shared with third parties without your consent.
+
+---
 
 ## Openness
 
-I am open to collaboration with both large companies and universities as well as individual interested people. If you have ideas, criticism, or proposals — write to me.
+I am open to collaboration with large companies, universities, and individual interested people alike. If you have ideas, criticism, or suggestions — write.

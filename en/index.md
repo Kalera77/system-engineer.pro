@@ -1,71 +1,67 @@
 ---
 title: "Valery Kalinin"
-permalink: /en/
+permalink: /
 layout: single
 author_profile: true
 ---
 
 # Valery Kalinin
 
-System Architect of Consciousness.  
-Building bridges between neuroscience, formal logic, clinical practice, and ethics.
+Systems engineer.  
+I answer the operational question: **how to detect consciousness in a patient with complete paralysis?**
 
-My tool — the cognitive shadow theory.  
-My product — the FORCED_REPORT protocol.  
-My philosophy — incomprehensibility as a gift.
-
-I do not solve the "hard problem" of consciousness.  
-I answer the operational question: **how to detect consciousness in a patient with complete paralysis?**  
-And I have a working answer.
+My tool — cognitive shadow theory (10 theorems, 29 axioms, verified in Coq).  
+My product — the FORCED_REPORT clinical protocol (AUC = 0.947 for LIS vs healthy).  
+My philosophy — incomprehensibility as a gift (accepting incompleteness as a condition of freedom).
 
 ---
 
 ## What I do
 
-I develop a formal model of the cognitive shadow — a system that establishes the limits of what can be measured and reconstructed regarding subjective experience.
+I develop a formal model of the cognitive shadow — a system that establishes the limits of what can be measured and reconstructed with respect to subjective experience.
 
 The project includes:
 
-- **Formal core**: 10 theorems proved in Coq 8.18+ (constructively, without classical logic)
+- **Formal core**: 10 theorems, proven in Coq 8.18+ (constructively, without classical logic)
 - **Empirical validation**: analysis of 265,956 EEG epochs from 9 independent datasets
 - **Clinical protocol**: FORCED_REPORT for detecting consciousness in patients with complete paralysis
 - **Ethical framework**: Shadow Ethics — six architectural invariants derived from system dynamics
 
 ---
 
-## Who this project is for
+## Who this is for
 
-**For clinicians** — if you work with patients with disorders of consciousness (LIS, VS, MCS) and are looking for objective diagnostic methods.
+**For clinicians** — if you work with patients with disorders of consciousness (LIS, VS, MCS) and need objective diagnostic methods.
 
-**For researchers** — if you study consciousness, brain-computer interfaces, or AI ethics and want a formally verified framework.
+**For researchers** — if you study consciousness, brain‑computer interfaces, or AI ethics and want a formally verified framework.
 
-**For engineers** — if you develop cognitive systems and want to embed ethical constraints at the architectural level, not as external filters.
+**For engineers** — if you develop cognitive systems and want to embed ethical constraints at the architectural level.
 
 **For everyone** — if you are interested in the boundaries of knowledge and ontological humility.
 
 ---
 
-## What is here
+## What you can find here
 
-- [Theory of Cognitive Shadow](/en/theory/) — formal core and empirical validation
-- [FORCED_REPORT protocol](/en/forced_report/) — clinical tool for LIS detection
-- [Shadow Ethics](/en/ethics/) — ethical principles as architectural invariants
-- [Publications](/en/publications/) — articles, preprints, philosophical essays
-- [AI Hygiene Guide](/en/ai-hygiene/) — practical guide for conscious AI use
-- [About](/en/about/) — my story and motivation
-- [Contact](/en/contact/) — how to reach me
+- [Theory of Cognitive Shadow](/theory) — formal core and empirical validation
+- [FORCED_REPORT Protocol](/forced_report) — clinical tool for LIS detection
+- [Shadow Ethics](/ethics) — ethical principles as architectural invariants
+- [Publications](/publications) — papers, preprints, philosophical essays
+- [AI Hygiene Guide](/ai-hygiene) — practical guide to conscious AI use
+- [About](/about) — my background and motivation
+- [Contact](/contact) — how to reach me
 
 ---
 
 ## Open to collaboration
 
-The project is built by one researcher, but its development requires interdisciplinary collaboration.
+The project was built by one researcher, but its development requires interdisciplinary collaboration.
 
 If you are:
-- **Neuroscientist** — want to test the theory's predictions
-- **Clinician** — ready to participate in prospective validation of FORCED_REPORT
-- **Mathematician** — want to develop the matrix model of interfaces
-- **Philosopher** — want to critique the ontological foundations
-- **Engineer** — want to implement architectural invariants in code
+- **A neuroscientist** wanting to test the theory’s predictions
+- **A clinician** ready to participate in prospective validation of FORCED_REPORT
+- **A mathematician** wanting to develop the matrix model of interfaces
+- **A philosopher** wanting to critique the ontological foundations
+- **An engineer** wanting to implement the architectural invariants in code
 
-— write to me. All materials are open, code is verifiable, data is reproducible.
+— write to me. All materials are open, code is verifiable, data are reproducible.

@@ -11,8 +11,7 @@ author_profile: true
 
 ### Основная статья
 
-**Kalinin VS.** Reflexive index φ as a heuristic model of consciousness formalizability: 
-validation on 265,956 epochs and clinical perspectives.
+**Kalinin VS.** Reflexive index φ as a heuristic model of consciousness formalizability: validation on 265,956 epochs and clinical perspectives.
 
 - **Журнал:** NeuroImage (submitted)
 - **Статус:** Подана, ожидает рецензирования
@@ -24,6 +23,8 @@ validation on 265,956 epochs and clinical perspectives.
 
 📄 [Полный текст (Article.md)](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Article.md)
 
+---
+
 ## Препринты
 
 ### Теоретическое ядро
@@ -32,7 +33,7 @@ validation on 265,956 epochs and clinical perspectives.
 
 - **Дата:** 10 апреля 2026 г. (обновлено 4 июля 2026 г.)
 - **Содержание:** Аксиомы A1–A8*, Теорема 1′, формальная верификация в Coq
-- **Лицензия:** CC BY-NC 4.0 (текст), MIT (код)
+- **Лицензия:** CC BY‑NC 4.0 (текст), MIT (код)
 
 📄 [cognitive_shadow_core.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/THEORY/cognitive_shadow_core.md)
 
@@ -90,6 +91,8 @@ validation on 265,956 epochs and clinical perspectives.
 
 📄 [Все приложения](https://github.com/Kalera77/cognitive-shadow-theory)
 
+---
+
 ## Философские эссе
 
 ### Непостижимость как дар
@@ -110,12 +113,13 @@ validation on 265,956 epochs and clinical perspectives.
 
 📖 [Доступна на тех же платформах]
 
+---
+
 ## Дополнительные материалы
 
 ### Руководство по осознанному использованию ИИ
 
-**AI_Hygiene_Guide_ru.md** — практическое пособие по развитию когнитивных способностей 
-и избеганию их деградации при использовании ИИ.
+**AI_Hygiene_Guide_ru.md** — практическое пособие по развитию когнитивных способностей и избеганию их деградации при использовании ИИ.
 
 📄 [AI_Hygiene_Guide_ru.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/ETHICS/AI_Hygiene_Guide_ru.md)
 
@@ -131,6 +135,8 @@ validation on 265,956 epochs and clinical perspectives.
 
 📄 [Experimental_Program.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/EMPIRICAL/Experimental_Program.md)
 
+---
+
 ## Формальная верификация
 
 Все теоремы формально верифицированы в **Coq 8.18+** и **TLA⁺**:
@@ -142,11 +148,13 @@ validation on 265,956 epochs and clinical perspectives.
 📄 [Documentation of Coq Modules](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/en/docs/Documentation_of_Coq_Modules.md)  
 📄 [Исходный код (src/)](https://github.com/Kalera77/cognitive-shadow-theory/tree/main/src)
 
+---
+
 ## Репозиторий
 
 📦 **[github.com/Kalera77/cognitive-shadow-theory](https://github.com/Kalera77/cognitive-shadow-theory)**
 
 **Лицензия:**
-- Тексты: CC BY-NC 4.0
+- Тексты: CC BY‑NC 4.0
 - Код: MIT
 - Коммерческие материалы: проприетарная лицензия (по запросу)

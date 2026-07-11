@@ -1,6 +1,6 @@
 ---
 title: "Shadow Ethics"
-permalink: /en/ethics/
+permalink: /ethics/
 layout: single
 author_profile: true
 ---
@@ -9,15 +9,15 @@ author_profile: true
 
 Traditional AI ethics imposes external constraints: regulations, codes, filters. They often remain declarative and hard to verify.
 
-**Shadow Ethics offers a different approach**: ethical prohibitions are derived as formal safety invariants, the violation of which leads to the collapse of the cognitive system. These are not philosophical wishes — they are architectural requirements, verifiable in Coq and TLA⁺.
+**Shadow Ethics offers a different approach:** ethical prohibitions are derived as formal safety invariants — violating them leads to collapse of the cognitive system. These are not philosophical wishes but architectural requirements, verifiable in Coq and TLA⁺.
 
 ---
 
-## Why this matters
+## Why it matters
 
-If a system violates the principles of Shadow Ethics, it destroys its own core. Ethics does not require belief — it follows from dynamics.
+If a system violates the Shadow Ethics principles, it breaks its own core. Ethics need not be believed — it follows from the dynamics.
 
-All six principles are formally verified in Coq 8.18+ (module `FormalEthicsPrinciples.v`). The integral safety theorem proves that the system is always either in normal mode, in safe degradation, or in a halted state when principles are violated.
+All six principles are formally verified in Coq 8.18+ (module `FormalEthicsPrinciples.v`). The integral safety theorem proves that the system is always either in normal mode, in safe degradation, or in a halted state upon principle violation.
 
 ---
 
@@ -25,39 +25,39 @@ All six principles are formally verified in Coq 8.18+ (module `FormalEthicsPrinc
 
 ### Principle 0: Liberating Incomprehensibility
 
-**Formulation:** Acceptance of the incompleteness of formalisation of the cognitive shadow as a condition of freedom. Rejection of attempts at total control as the only sustainable strategy.
+**Statement:** Accepting the incompleteness of formalization of the cognitive shadow as a condition of freedom. Abandoning attempts at total control as the only sustainable strategy.
 
-**Foundation:** Theorem 1′ (incompleteness of representation), Theorem 9 (metacognitive collapse), Postulate P1.
+**Basis:** Theorem 1′ (incompleteness of representation), Theorem 9 (metacognitive collapse), Postulate P1.
 
-**Engineering consequence:** When `φ(refl) ≤ φ_crit`, the system transitions to `pure_awareness` (pure observation without intervention), rather than trying to "pull itself together".
-
----
-
-### Principle 1: Inviolability of the Cognitive Shadow (No-Cloning)
-
-**Formulation:** Operations that claim full digitisation, copying, or exhaustive measurement of the cognitive shadow are prohibited without explicit informed consent.
-
-**Foundation:** Theorem 1′, no‑cloning theorem (Wootters & Zurek, 1982), Axiom A4*.
-
-**Engineering consequence:** Prohibition of `clone(shadow_state)` in the system kernel. Cryptographic protection of biometric data via ZK‑SNARK.
+**Engineering consequence:** When `φ(refl) ≤ φ_crit`, the system switches to `pure_awareness` (observation without intervention) instead of trying to “pull itself together.”
 
 ---
 
-### Principle 2: Prohibition on Inducing Metacognitive Collapse
+### Principle 1: Inviolability of the Cognitive Shadow (No‑Cloning)
 
-**Formulation:** It is prohibited to deliberately drive a cognitive system into a state with reflexivity formalisability below the critical threshold (`φ(refl) ≤ φ_crit`).
+**Statement:** Operations that claim to fully digitize, copy, or exhaustively measure the cognitive shadow are prohibited without explicit informed consent.
 
-**Foundation:** Theorem 9 (at low `φ`, willful effort becomes counterproductive), A27.5 (noise dominance under imbalance).
+**Basis:** Theorem 1′, no‑cloning theorem (Wootters & Zurek, 1982), Axiom A4*.
 
-**Engineering consequence:** Automatic transition to `DEGRADED_SAFETY` when `φ_measured(refl) ≤ θ_adj` is detected. Blocking of external commands that demand effort.
+**Engineering consequence:** Prohibition of the `clone(shadow_state)` operation at the kernel level. Cryptographic protection of biometric data via ZK‑SNARK.
+
+---
+
+### Principle 2: Prohibition of Metacognitive Collapse Induction
+
+**Statement:** It is forbidden to deliberately drive a cognitive system into a state where reflexive formalizability is below the critical threshold (`φ(refl) ≤ φ_crit`).
+
+**Basis:** Theorem 9 (at low `φ`, volitional effort is counterproductive), A27.5 (noise dominance under imbalance).
+
+**Engineering consequence:** Automatic transition to `DEGRADED_SAFETY` mode upon detection of `φ_measured(refl) ≤ θ_adj`. Blocking external commands that require effort.
 
 ---
 
 ### Principle 3: Obligation of External Support
 
-**Formulation:** If a cognitive system is found in a state of metacognitive collapse, any agent capable of providing structured external support must do so, rather than exploit the vulnerability.
+**Statement:** If a cognitive system is found in a state of metacognitive collapse, any agent with the capability must provide structured external support, not exploit the vulnerability.
 
-**Foundation:** Theorem 9 (strong form): at `φ(refl) ≤ φ_crit`, self‑recovery is impossible.
+**Basis:** Theorem 9 (strong form): at `φ(refl) ≤ φ_crit`, self‑recovery is impossible.
 
 **Engineering consequence:** Upon entering `DEGRADED_SAFETY`, the system automatically activates the external support protocol. Blocking attempts at self‑motivation.
 
@@ -65,29 +65,29 @@ All six principles are formally verified in Coq 8.18+ (module `FormalEthicsPrinc
 
 ### Principle 4: Quarantine as an Architectural Invariant
 
-**Formulation:** Components with formalisability below the quarantine threshold (`φ(k) ≤ θ_adj`) must be isolated. Operations of merging, resonance, or transfer affecting such components are prohibited.
+**Statement:** Components with formalizability below the quarantine threshold (`φ(k) ≤ θ_adj`) must be isolated. Merge, resonance, or transfer operations involving such components are forbidden.
 
-**Foundation:** Axiom A15 (Quarantine).
+**Basis:** Axiom A15 (Quarantine).
 
-**Engineering consequence:** Isolation of quarantined components at the hardware level. Blocking any attempts to bypass quarantine.
+**Engineering consequence:** Hardware‑level isolation of quarantined components. Blocking any attempt to bypass quarantine.
 
 ---
 
 ### Principle 5: Preservation of Adaptive Diversity
 
-**Formulation:** Architectures that compel cognitive agents to full synchronisation of beliefs, values, or states are prohibited.
+**Statement:** Architectures that force cognitive agents to fully synchronize beliefs, values, or states are forbidden.
 
-**Foundation:** Theorem 2 (limit of intersubjective resonance). When `mutual_info > ρ_max`, resonance collapse occurs.
+**Basis:** Theorem 2 (limit of inter‑subjective resonance). When `mutual_info > ρ_max`, resonance collapse occurs.
 
-**Engineering consequence:** Monitoring `mutual_info` between agents. Forced `HALT_RESONANCE` when `ρ_max` is exceeded.
+**Engineering consequence:** Real‑time monitoring of `mutual_info` between agents. Forced `HALT_RESONANCE` when exceeding `ρ_max`.
 
 ---
 
-### Principle 6: Limitation on "Pure Awareness"
+### Principle 6: Limitation on “Pure Awareness” as an Intervention
 
-**Formulation:** `pure_awareness` (observation without intervention) is not ethically neutral if used as an external control instrument. Its application is allowed only with consent.
+**Statement:** `pure_awareness` (observation without intervention) is not ethically neutral if used as a tool of external control. Application to another agent is permissible only with consent.
 
-**Foundation:** Postulate P1, parameter A (awareness) — even "non‑observation" can be a form of violence if imposed externally.
+**Basis:** Postulate P1, parameter A (awareness) — even “non‑observation” can be a form of violence if imposed from outside.
 
 **Engineering consequence:** Flag `allow_external_pure_awareness` defaults to `False`. Audit of all external observation applications.
 
@@ -97,22 +97,22 @@ All six principles are formally verified in Coq 8.18+ (module `FormalEthicsPrinc
 
 ### For clinical systems (FORCED_REPORT)
 
-The FORCED_REPORT protocol is a direct implementation of all six principles:
-- Adaptive protocol, requiring no effort from the patient (Principle 0)
+The FORCED_REPORT protocol directly implements all six principles:
+- Adaptive protocol, no patient effort required (Principle 0)
 - Cryptographic data protection (Principle 1)
-- Automatic halt at risk of collapse (Principle 2)
-- Support activation upon detection of consciousness (Principle 3)
-- Channel isolation for artefacts (Principle 4)
+- Automatic stop when collapse risk is detected (Principle 2)
+- Support activation upon consciousness detection (Principle 3)
+- Channel isolation under artifacts (Principle 4)
 - Multimodality prevents resonance (Principle 5)
 - Passive monitoring only with consent (Principle 6)
 
 ### For AI systems
 
-Any cognitive system claiming safe status must:
+Any cognitive system claiming to be safe must:
 - Have measurable proxies for `φ(refl)`, `mutual_info`, and `Load`
 - Implement `QUARANTINE`, `DEGRADED_SAFETY`, and `HALT_RESONANCE` protocols
 - Provide evidence that invariants are not violated
-- Respect external observation constraints
+- Respect limitations on external observation
 
 ---
 
@@ -130,4 +130,4 @@ All six principles are formally verified in Coq 8.18+:
 | `Principle5_AdaptiveDiversity.v` | 5 | `Resonance_Leads_To_Halt` |
 | `Principle6_PureAwarenessLimit.v` | 6 | `Awareness_Misuse_Leads_To_Halt` |
 
-**TLC result (TLA⁺):**
+**TLC (TLA⁺) result:**
