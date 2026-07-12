@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Contact
+
 
 If you are unsure which category your inquiry falls into — just write. I reply to all emails within 48 hours.
 

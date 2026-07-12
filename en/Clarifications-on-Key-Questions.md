@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Clarifications on Key Questions
 
 A scientific theory is tested not by the number of its supporters, but by how it answers objections.
 

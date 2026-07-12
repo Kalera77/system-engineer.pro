@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Cognitive Shadow Theory
 
 > *"The inscrutability of qualia is not a mystical mystery, but a direct physical consequence of the impossibility of measuring a non‑equilibrium chemical process without stopping it. We cannot copy a flame without extinguishing the candle."*
 

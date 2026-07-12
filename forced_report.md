@@ -1,11 +1,11 @@
 ---
-title: "Протокол FORCED_REPORT"
+title: "FORCED REPORT"
 permalink: /forced_report/
 layout: single
 author_profile: true
 ---
 
-# Протокол FORCED_REPORT
+# Протокол FORCED REPORT
 
 **Что это:** мультимодальный протокол детекции сознания у пациентов с полным параличом.
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Shadow Ethics: Six Principles of Cognitive System Ethics
+# Six Principles of Cognitive System Ethics
 
 > Ethical prohibitions are derived as formal safety invariants, the violation of which leads to the collapse of the cognitive system.
 

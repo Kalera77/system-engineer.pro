@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Publications and Books
+ 
 
 ## Articles (under review)
 
@@ -13,8 +13,8 @@ author_profile: true
 
 **Kalinin VS.** Reflexive index φ as a heuristic model of consciousness formalizability: validation on 265,956 epochs and clinical perspectives.
 
-- **Journal:** NeuroImage (submitted)
-- **Status:** Submitted, awaiting peer review
+- **Journal:** NeuroImage 
+- **Status:** Manuscript in preparation (for submission)
 - **Key results:**
   - AUC = 0.947 for LIS vs healthy detection
   - AUC = 0.887 for cross‑population validation

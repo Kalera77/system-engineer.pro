@@ -1,11 +1,11 @@
 ---
-title: "FORCED_REPORT Protocol"
+title: "FORCED REPORT"
 permalink: /forced_report/
 layout: single
 author_profile: true
 ---
 
-# FORCED_REPORT Protocol
+# FORCED REPORT Protocol
 
 **What it is:** a multimodal protocol for detecting consciousness in patients with complete paralysis.
 
