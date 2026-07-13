@@ -12,9 +12,10 @@ author_profile: true
 
 **Kalinin VS.** Reflexive index φ as a heuristic model of consciousness formalizability: validation on 265,956 epochs and clinical perspectives.
 
-- **Журнал:** NeuroImage (submitted)
-- **Статус:** Готовится к подаче 
-- **Ключевые результаты:**
+**Журнал:** eLife (планируется подача)
+**Статус:** Планируется подача
+**Препринт:** DOI [10.5281/zenodo.21322891](https://doi.org/10.5281/zenodo.21322891)
+**Ключевые результаты:**
   - AUC = 0.947 для детекции LIS vs healthy
   - AUC = 0.887 при кросс-популяционной валидации
   - Подтверждение параметра A (Awareness): p = 0.045
@@ -36,6 +37,13 @@ author_profile: true
 
 📄 [cognitive_shadow_core.md](https://github.com/Kalera77/cognitive-shadow-theory/blob/main/ru/THEORY/cognitive_shadow_core.md)
 
+### Эмпирическая валидация
+
+**Kalinin VS.** Reflexive index φ as a heuristic model of consciousness formalizability: validation on 265,956 epochs.
+
+- **Опубликован на Zenodo:** 10.5281/zenodo.21322891
+- **Содержание:** полная эмпирическая статья с результатами валидации
+  
 ### Динамическое расширение
 
 **Kalinin VS.** Cognitive Shadow Dynamics: Extensions and Interfaces.

@@ -26,8 +26,8 @@ My answer is the **FORCED_REPORT** protocol:
 
 ## Current Status (July 2026)
 
-- ✅ Preprint submitted to **bioRxiv**
-- ⏳ Paper in preparation for **NeuroImage**
+- ✅ Preprint published on **Zenodo** (DOI: 10.5281/zenodo.21322891)
+- ⏳ Article is planned for submission to **eLife**
 - ✅ Patent application filed with Rospatent
 - ⏳ Seeking clinical partners for prospective validation
 

@@ -5,17 +5,17 @@ layout: single
 author_profile: true
 ---
 
-# Valery Kalinin
-
-Systems engineer working at the intersection of neuroscience, formal logic, clinical practice, and ethics.
+**Systems Engineer.**  
+Working at the intersection of neuroscience, formal logic, clinical practice, and ethics.
 
 My professional task is to design and verify tools for diagnosing consciousness. I am not a neuroscientist or a clinician. My role is to formalize the boundaries of what can be known about consciousness and to propose practical diagnostic methods within those boundaries.
 
 ---
 
-## Why it works
+## Interdisciplinary Approach
 
 Specialists see the problem from within their own discipline:
+
 - Neuroscientist → synapses
 - Clinician → symptoms
 - Mathematician → equations
@@ -24,38 +24,59 @@ I see the system as a whole and build tools at the intersections of disciplines.
 
 ---
 
-## Current project — Cognitive Shadow Theory
+## Project: Cognitive Shadow Theory
 
-- **Formal core**: 10 theorems, 29 axioms, verified in Coq 8.18+ and TLA⁺
-- **Empirical base**: 265,956 EEG epochs from 9 independent datasets
-- **Clinical protocol**: FORCED_REPORT for LIS detection (AUC = 0.947)
-- **Ethical framework**: Shadow Ethics (6 principles, formally verified)
+### Formal Core
+- **10 theorems**, **29 axioms**
+- Verified in **Coq 8.18+** (CIC, constructive, without classical logic)
+- **TLA⁺** — invariant checking on 100% of states
+- **27 Coq modules**, all theorems proven
+
+### Empirical Validation
+- **265,956 EEG epochs** from 9 independent datasets
+- **AUC = 0.947** for LIS vs healthy (GroupKFold)
+- **AUC = 0.887** under cross-population validation
+- **Specificity confirmed:** AUC ≈ 0.5 for control tasks
+
+### Clinical Protocol FORCED_REPORT
+- **3 independent channels:** BCI, pupillary reflex, neurofeedback
+- **Diagnostic rule:** Σbᵢ ≥ 2 → LIS
+- **Formally verified** in Coq
+- **Patent application filed** (18 claims, 3 independent)
+
+### Shadow Ethics
+- **6 principles** as architectural invariants
+- Derived from system dynamics (violation → collapse)
+- Formally verified in Coq and TLA⁺
 
 ---
 
-## Project status (July 2026)
+## Project Status (July 2026)
 
-- Formal verification complete (27 Coq modules)
-- Empirical validation performed
-- Paper submitted to NeuroImage
-- Patent application filed with Rospatent (18 claims, 3 independent)
-- Open to clinical partners for prospective validation
-
----
-
-## Philosophical essays
-
-- **Incomprehensibility as a Gift** — on accepting incompleteness of formalization as a condition of freedom
-- **The Book of Questions** — on systems thinking and the art of asking questions
+| Stage | Status |
+|-------|--------|
+| Formal verification | ✅ Complete (27 Coq modules) |
+| Empirical validation | ✅ Performed |
+| Article in eLife | ⏳ planned submission |
+| Preprint (Zenodo) | ✅ Published (DOI: 10.5281/zenodo.21322891) |
+| Patent application | ✅ Filed (18 claims) |
+| Prospective validation | ⏳ Seeking clinical partners |
 
 ---
 
-## Working principles
+## Philosophical Essays
 
-- Openness of code, data, and proofs
-- Honest acknowledgment of the theory's limits and limitations
-- Rejection of "guru" posturing in favor of interdisciplinary dialogue
-- Invitation to collaborate
+- **Incomprehensibility as a Gift** — accepting incompleteness of formalization as a condition of freedom.
+- **The Book of Questions** — systems thinking and the art of asking questions.
+
+---
+
+## Working Principles
+
+- **Openness** — code, data, and proofs are available for verification.
+- **Honesty** — direct acknowledgment of the theory’s boundaries and limitations.
+- **Dialogue** — rejection of “guru” posturing in favor of interdisciplinary discussion.
+- **Collaboration** — invitation to joint work.
 
 ---
 
